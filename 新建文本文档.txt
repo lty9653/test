@@ -1,0 +1,10 @@
+git status 
+git add 文件名
+git commit -m "文件说明"
+git push 上传到云端
+
+git config --global user.name " "
+git config --global user.email " "
+git config --list
+
+git clone 链接 从云端克隆到本地仓库
